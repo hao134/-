@@ -28,4 +28,4 @@ pyinstaller -F -i pyi_icon.ico --add-data="templates;templates"  app.py
 簡化介面，把資料內化到程式中
 
 ## Deploy on Heroku at 2022.8.16
-https://afternoon-reef-38149.herokuapp.com/
+https://pipe-project-333.herokuapp.com

@@ -1,6 +1,6 @@
 # Cafe and Wifi Restful api with db
 
-<a href="https://desolate-tundra-95485.herokuapp.com" target="_blank">Demo</a>
+<a href="https://cafesdb-95485.herokuapp.com" target="_blank">Demo</a>
 
 # 1. 首頁的樣子是如此：
 ![](https://i.imgur.com/KU7Wa8V.png)

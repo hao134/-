@@ -1,7 +1,7 @@
 # Image color generator
 ###### tags: `Portfolio`
 ## Deploy on Heroku:
-[Demo](https://hidden-fjord-73260.herokuapp.com/)
+[Demo](https://upload-image-73260.herokuapp.com)
 
 ## 1.首頁如此：
 ![](https://i.imgur.com/QcU9PKd.png)

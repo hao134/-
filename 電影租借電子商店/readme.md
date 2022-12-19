@@ -1,5 +1,5 @@
 # E commerce website
-[Demo](https://quiet-wildwood-43967.herokuapp.com)
+[Demo](https://movie-rent-store-43967.herokuapp.com)
 
 ## 點進去首頁，呈現的是當時線上的電影
 ![](https://i.imgur.com/RMHX3xt.jpg)
